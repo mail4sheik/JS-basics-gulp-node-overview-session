@@ -1,9 +1,9 @@
 function Human(){
     this.HumanList = [
-        {name:"Ajith",age:40,gender:'male',industry:'film',imgPath:"thala1.jpg"},
-        {name:"Madona Sebastin", age:"N/A", industry:'film',imgPath:"mad1.jpg"},
-        {name:"Madona Sebastin", age:"N/A", industry:'music',imgPath:"mad2.jpg"},
-        {name:"A R Rahman", age: "50",industry:'music',imgPath:"A-R-Rahman1.jpg"}
+        {name:"Ajith",age:40,gender:'male',industry:'film',imgPath:"img/thala1.jpg"},
+        {name:"Madona Sebastin", age:"N/A", industry:'film',imgPath:"img/mad1.jpg"},
+        {name:"Sai Pallavi", age:"N/A", industry:'film',imgPath:"img/451677-sai-pallavi.jpg"},
+        {name:"A R Rahman", age: "50",industry:'music',imgPath:"img/A-R-Rahman1.jpg"}
         
     ]
 
